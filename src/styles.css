@@ -1,11 +1,19 @@
 .box {
   font-family: sans-serif;
-  height: 200px;
-   width: 200px;
-   background-color: rgb(0, 191, 255);
-   display: flex;
-   justify-content: center;
-   align-items: center;
-   font-size: 30px;
-   cursor: pointer;
+  font-family: sans-serif;
+  
+  font-size: 30px;
+  cursor: pointer;
+  
+  padding: 5px;
+  left: 50;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+
+h2{
+   background-color: rgb(0, 191, 255); 
+   padding: 50px;
 }
